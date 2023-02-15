@@ -6,7 +6,7 @@ App is written fully with Jetpack compose.
 UI Layer is exposed with StateFlow and StateIn.
 Data Layer contains Repositories and Domain layer contains UseCase for usiness logic.
 
-<img width="711" alt="Screenshot 2023-02-07 at 17 14 03" src="https://user-images.githubusercontent.com/5040186/217334956-11d1f6b6-37f1-408a-97cf-ef777bdad03d.png">
+<img width="600" alt="Screenshot 2023-02-15 at 20 43 42" src="https://user-images.githubusercontent.com/5040186/219110607-7ad8c58e-39b8-44f9-804d-94c59df98a27.png">
 
 * UI
     * [Compose](https://developer.android.com/jetpack/compose)
